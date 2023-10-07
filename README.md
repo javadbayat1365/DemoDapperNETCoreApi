@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/javadbayat1365/DemoDapperNETCoreApi">
-    <img src="https://github.com/javadbayat1365/DemoDapperNETCoreApi/blob/master/Demo-Dapper-NETApi/Images/fvasp109-svg.svg" alt="Logo" width="200" height="120">
+    <img src="https://github.com/javadbayat1365/DemoDapperNETCoreApi/blob/master/Demo-Dapper-NETApi/Images/fvasp109-svg.svg" alt="Logo" width="400" height="150">
   </a>
 
   <p align="center">
