@@ -12,6 +12,16 @@
   </p>
 </div>
 
+# Prerequisites
+
+* Nuget
+  ```sh
+  PM> Install-Package Dapper
+  ```
+  ```sh
+  PM> Install-Package Microsoft.Data.SqlClient
+  ```
+
 -  Dapper is an ORM (Object-Relational Mapper) or to be more precise a Micro ORM, which we can use to communicate with the database in our projects
 -  Dapper has great performance because it doesn’t translate queries that we write in .NET to SQL. It is important to know that Dapper is SQL Injection safe because we can use parameterized queries, and that’s something we should always do
 
